@@ -1,0 +1,102 @@
+Entity,Label,Ner_model
+patients,ORGANISM,bionlp13cg
+loperamide hydrochloride,SIMPLE_CHEMICAL,bionlp13cg
+sodium chloride,SIMPLE_CHEMICAL,bionlp13cg
+gut-liver,CELLULAR_COMPONENT,bionlp13cg
+lymphocytes,CELL,bionlp13cg
+albumin,GENE_OR_GENE_PRODUCT,bionlp13cg
+montmorillonite powder (,SIMPLE_CHEMICAL,bionlp13cg
+CD8+ cells,CELL,bionlp13cg
+maculas shadows,TISSUE,bionlp13cg
+malignant tumors,CANCER,bionlp13cg
+coronavirus,ORGANISM,bionlp13cg
+plasma,ORGANISM_SUBSTANCE,bionlp13cg
+COVID-19 patient,PATHOLOGICAL_FORMATION,bionlp13cg
+intestinal,ORGAN,bionlp13cg
+APTT,GENE_OR_GENE_PRODUCT,bionlp13cg
+cellular,CELL,bionlp13cg
+pulmonary lesions,CANCER,bionlp13cg
+platelets,CELL,bionlp13cg
+Human serum albumin,ORGANISM,bionlp13cg
+prothrombin,GENE_OR_GENE_PRODUCT,bionlp13cg
+QD,SIMPLE_CHEMICAL,bionlp13cg
+bowel,ORGAN,bionlp13cg
+COVID-19,MULTI_TISSUE_STRUCTURE,bionlp13cg
+Bifidobacterium lactobacillus,AMINO_ACID,bionlp13cg
+COVID-19,CANCER,bionlp13cg
+CD4+ cells,GENE_OR_GENE_PRODUCT,bionlp13cg
+oxygen,SIMPLE_CHEMICAL,bionlp13cg
+COVID-19 (9,GENE_OR_GENE_PRODUCT,bionlp13cg
+blood cell,CELL,bionlp13cg
+fibrinogen,GENE_OR_GENE_PRODUCT,bionlp13cg
+chloroquine phosphate (,SIMPLE_CHEMICAL,bionlp13cg
+maculas,MULTI_TISSUE_STRUCTURE,bionlp13cg
+intravenously,IMMATERIAL_ANATOMICAL_ENTITY,bionlp13cg
+cell,CELL,bionlp13cg
+hepatic,ORGAN,bionlp13cg
+T-helper type 1,GENE_OR_GENE_PRODUCT,bionlp13cg
+WBC,GENE_OR_GENE_PRODUCT,bionlp13cg
+ritonavir tablets (2 pills BID peros,SIMPLE_CHEMICAL,bionlp13cg
+BID,GENE_OR_GENE_PRODUCT,bionlp13cg
+lungs,ORGAN,bionlp13cg
+interferon alpha-2b,SIMPLE_CHEMICAL,bionlp13cg
+thromboplastin,GENE_OR_GENE_PRODUCT,bionlp13cg
+blood vessels,MULTI_TISSUE_STRUCTURE,bionlp13cg
+lactulose,SIMPLE_CHEMICAL,bionlp13cg
+bronchovascular shadows,TISSUE,bionlp13cg
+D-dimers,GENE_OR_GENE_PRODUCT,bionlp13cg
+venous,MULTI_TISSUE_STRUCTURE,bionlp13cg
+lopinavir,SIMPLE_CHEMICAL,bionlp13cg
+patchy lesions,CANCER,bionlp13cg
+elemente,IMMATERIAL_ANATOMICAL_ENTITY,bionlp13cg
+pulmonary,ORGAN,bionlp13cg
+peripheral blood hemoglobin,CELL,bionlp13cg
+IU,MULTI_TISSUE_STRUCTURE,bionlp13cg
+neutrophil,CELL,bionlp13cg
+oropharyngeal swabs,CANCER,bionlp13cg
+Coronavirus disease 2019,ORGANISM,bionlp13cg
+neutrophils,CELL,bionlp13cg
+Lopinavir,SIMPLE_CHEMICAL,bionlp13cg
+CD4+/CD8+ cells,GENE_OR_GENE_PRODUCT,bionlp13cg
+chest CT,PATHOLOGICAL_FORMATION,bionlp13cg
+lung,ORGAN,bionlp13cg
+ground-glass,CELLULAR_COMPONENT,bionlp13cg
+water,SIMPLE_CHEMICAL,bionlp13cg
+pantoprazole enteric-coated tablets,SIMPLE_CHEMICAL,bionlp13cg
+methylprednisolone sodium succinate,SIMPLE_CHEMICAL,bionlp13cg
+blood cells,CELL,bionlp13cg
+Pneumonitis,CANCER,bionlp13cg
+her bilateral lungs.,CANCER,bionlp13cg
+Th2 cells,CELL,bionlp13cg
+moxifloxacin hydrochloride,SIMPLE_CHEMICAL,bionlp13cg
+Figure 1,GENE_OR_GENE_PRODUCT,bionlp13cg
+meals,ORGANISM,bionlp13cg
+COVID-19 patients,CANCER,bionlp13cg
+liver,ORGAN,bionlp13cg
+trachea,TISSUE,bionlp13cg
+coronavirus 2,ORGANISM,bionlp13cg
+human granulocyte colony-stimulating factor,ORGANISM,bionlp13cg
+bronchovascular shadows,MULTI_TISSUE_STRUCTURE,bionlp13cg
+moxifloxacin,SIMPLE_CHEMICAL,bionlp13cg
+human immunoglobulin,ORGANISM,bionlp13cg
+erythrocyte,ORGANISM_SUBSTANCE,bionlp13cg
+patient,ORGANISM,bionlp13cg
+abdomen,ORGAN,bionlp13cg
+human serum albumin,ORGANISM,bionlp13cg
+maculas,TISSUE,bionlp13cg
+cord-like ground-glass,MULTI_TISSUE_STRUCTURE,bionlp13cg
+blood,ORGANISM_SUBSTANCE,bionlp13cg
+ritonavir tablets,SIMPLE_CHEMICAL,bionlp13cg
+COVID-19 patients.,CANCER,bionlp13cg
+COVID-19,GENE_OR_GENE_PRODUCT,bionlp13cg
+cancer,CANCER,bionlp13cg
+venous thromboembolism,PATHOLOGICAL_FORMATION,bionlp13cg
+thrombin,GENE_OR_GENE_PRODUCT,bionlp13cg
+WBC,CELL,bionlp13cg
+type 2,GENE_OR_GENE_PRODUCT,bionlp13cg
+B,CELL,bionlp13cg
+electrolytes,CELLULAR_COMPONENT,bionlp13cg
+lymphocyte,CELL,bionlp13cg
+C-reactive protein,GENE_OR_GENE_PRODUCT,bionlp13cg
+glutathione,SIMPLE_CHEMICAL,bionlp13cg
+C-reactive,GENE_OR_GENE_PRODUCT,bionlp13cg
